@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Reborn Gym",
+    "shortName": "Reborn",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#171c23",
+    "bgElevated": "#212731",
+    "surface": "#29313d",
+    "surface2": "#364050",
+    "text": "#f2f4f3",
+    "muted": "#98a7bc",
+    "accent": "#8fb6f6",
+    "accent2": "#73a2e5",
+    "logoBg": "#171c23"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
